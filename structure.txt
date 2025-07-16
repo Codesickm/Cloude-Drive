@@ -1,0 +1,19 @@
+mohitdrive/
+├── index.php             ← Login/Register
+├── dashboard.php         ← File manager UI
+├── upload.php            ← File upload handler
+├── delete.php            ← File delete handler
+├── share.php             ← Public link generation
+├── logout.php
+├── files/                ← All uploaded files stored here
+├── db/
+│   └── db_config.php     ← MySQL config
+│   └── database.sql      ← Initial DB schema
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+├── python/
+│   └── sync_backup.py    ← (future) auto-backup script
+└── README.md             ← GitHub showcase doc

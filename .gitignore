@@ -1,0 +1,9 @@
+/files/
+*.log
+.env
+node_modules/
+vendor/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
