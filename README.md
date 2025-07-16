@@ -60,7 +60,7 @@ Cloud-Drive/
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Codesickm/Cloud-Drive.git
+   git clone https://github.com/Codesickm/Cloude-Drive.git
    ```
 
 2. Move to `htdocs`:
