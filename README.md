@@ -14,8 +14,8 @@
 - 🎥 **File Preview (PDF, Images, Videos)**
 - 🔗 **Sharable Public File Links**
 - 🗑️ **Recycle Bin with Restore & Permanent Delete**
-- 📊 **Storage Usage Bar (Quota System)**
-- 🔒 **Password Protected Sessions**
+- 📊 **Storage Usage Bar (Quota System) [Still in Progress]**
+- 🔒 **Password Protected Sessions [Still in Progress]**
 
 ---
 
@@ -72,7 +72,7 @@ Cloud-Drive/
 
 4. Create a MySQL database:
    ```
-   Database name: mohitdrive
+   Database name: clouddrive
    ```
 
 5. Import your SQL tables manually or use phpMyAdmin
@@ -94,12 +94,6 @@ You can host **Cloud-Drive** via:
 
 ✅ Hosting on your computer? Set up `port 80` in router  
 ✅ Need help? Ask Nayak 😉
-
----
-
-## 📸 Screenshots *(optional)*
-
-> Add some UI previews here
 
 ---
 
