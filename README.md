@@ -101,7 +101,7 @@ You can host **Cloud-Drive** via:
 
 **Mohit (Codesickm)**  
 🚀 GitHub: [https://github.com/Codesickm](https://github.com/Codesickm)  
-💛 Guided by: Nayak (AI-powered developer partner)
+💛 Developer Mated: Vaishali Mohit Ishita
 
 ---
 
